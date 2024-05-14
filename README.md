@@ -1,2 +1,2 @@
 # todo-app
-# Made using HTML,CSS, And JS
+Made using HTML, CSS, And JS
