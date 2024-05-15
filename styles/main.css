@@ -131,6 +131,8 @@ main * {
   transition: all 0.35s ease 0s;
 }
 
+/* footer */
+
 footer {
   width: 100%;
   display: flex;

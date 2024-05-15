@@ -190,3 +190,5 @@ const render = () => {
 // event listeners
 addBtn.addEventListener("click", addTask);
 render();
+
+// ---------------------------------------------------
